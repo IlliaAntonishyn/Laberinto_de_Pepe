@@ -1,0 +1,673 @@
+49 65
+39 1
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 5 
+5 0 1 0 1 1 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 0 1 1 1 0 1 1 1 0 5 0 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 0 1 1 1 0 1 0 0 0 0 5 
+5 0 1 0 1 0 0 1 0 0 1 0 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 5 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 5 
+5 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 1 0 0 0 5 0 1 0 1 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 0 0 1 0 1 0 1 0 1 0 0 0 0 5 
+5 0 1 0 1 0 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 0 1 0 1 0 0 0 1 0 5 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 5 
+5 0 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 1 0 5 0 1 1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 0 1 1 1 1 1 5 
+5 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 1 0 1 1 0 1 0 0 0 1 1 5 0 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 5 
+5 0 1 1 0 1 1 1 1 0 1 0 1 1 0 1 1 1 0 0 1 0 0 0 0 1 1 1 0 0 0 2 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 1 1 1 5 
+5 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 1 1 0 1 0 0 0 1 0 0 1 1 5 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 5 
+5 0 1 0 1 1 0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 0 1 0 5 0 1 0 0 0 0 1 1 1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 0 1 0 1 1 0 5 
+5 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 1 0 5 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 5 
+5 0 1 0 1 1 1 1 1 1 0 0 5 5 5 5 5 5 5 5 5 0 1 1 0 0 0 0 1 1 0 5 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 5 
+5 0 1 0 1 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 5 0 1 0 0 1 0 0 1 0 0 5 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 5 
+5 1 1 0 1 0 1 1 1 0 1 0 5 0 0 0 0 0 0 0 5 0 1 0 0 1 1 1 1 0 1 5 0 1 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 1 1 1 0 0 0 0 0 0 0 5 
+5 0 0 0 0 0 1 0 1 1 1 1 5 0 0 0 0 0 0 0 5 0 1 1 0 1 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 1 1 0 5 
+5 0 1 1 1 1 1 0 0 0 0 0 3 0 0 0 0 0 0 0 5 0 0 1 0 1 0 1 1 0 1 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 1 1 0 1 1 0 1 0 0 0 0 1 0 1 0 0 5 
+5 0 1 0 0 0 0 0 0 1 1 0 5 0 0 0 0 0 0 0 5 0 0 1 1 1 0 1 0 0 1 5 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 5 0 1 0 1 0 0 1 1 1 1 0 1 1 1 0 1 5 
+5 0 1 1 1 0 1 1 0 1 0 0 5 0 0 0 0 0 0 0 5 0 0 0 0 0 0 1 0 1 0 5 0 1 1 0 1 1 1 0 1 0 1 1 1 1 0 5 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 5 
+5 0 0 0 1 0 1 0 0 1 0 0 5 0 0 0 0 0 0 0 5 0 1 1 1 1 0 1 0 1 0 5 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 5 0 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 5 
+5 0 1 0 1 1 1 0 0 1 0 0 5 5 5 5 5 5 5 5 5 0 1 0 0 0 0 1 0 1 0 5 0 1 1 0 1 1 1 1 1 0 0 0 0 1 0 5 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 5 
+5 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 1 0 5 0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 5 0 1 1 1 0 1 0 1 0 1 1 1 0 1 1 0 5 
+5 0 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 5 1 1 0 1 1 0 1 1 1 0 1 0 1 0 0 5 0 0 0 0 0 1 0 1 0 1 0 1 1 1 0 0 5 
+5 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 3 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 5 0 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 5 
+5 0 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 1 0 0 0 0 1 1 1 0 1 1 0 0 0 5 0 1 1 1 0 0 1 0 1 0 0 1 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 5 
+5 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 1 0 0 1 1 5 0 0 1 0 0 0 1 1 1 1 0 1 0 0 0 5 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 5 
+5 0 1 1 1 0 1 0 1 0 1 0 1 0 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 0 0 5 1 0 1 0 1 0 0 0 1 0 0 1 0 0 0 5 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 0 5 
+5 0 1 0 0 0 1 0 1 0 1 0 1 1 1 0 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 5 0 0 1 1 1 0 1 0 1 0 0 1 0 0 0 5 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 5 
+5 0 1 1 0 1 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 5 0 1 1 0 0 0 1 0 1 1 0 1 0 0 0 5 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 5 
+5 0 0 1 0 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 5 0 0 1 0 1 1 1 0 0 1 0 1 0 0 0 5 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 5 
+5 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 1 1 0 1 0 0 0 5 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 0 0 1 0 1 0 0 0 0 1 0 1 0 0 0 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 1 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 1 1 1 1 1 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 1 0 0 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 1 0 0 0 5 
+5 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 5 0 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 1 0 1 1 1 0 1 5 
+5 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 5 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 0 1 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 1 0 1 0 1 0 1 0 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1 1 1 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 1 1 0 1 1 0 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 1 0 0 0 0 1 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 1 1 0 1 1 1 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 1 0 1 0 1 1 0 1 1 1 0 1 0 0 1 0 1 0 1 0 1 0 0 0 1 0 1 1 0 1 1 1 0 0 0 1 1 1 0 0 0 5 
+5 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 5 0 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 5 
+5 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 5 0 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 1 0 0 1 1 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 1 0 0 1 1 0 1 1 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 1 0 1 1 1 0 1 0 0 0 1 0 1 0 1 1 1 0 1 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 1 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 1 0 1 0 0 0 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 0 1 5 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+564
+18
+class Entities.A.Player
+90 90 0 0
+class Entities.Enemies.MeleeEnemy
+1440 1350 0 0
+class Entities.Enemies.RangeEnemy
+1440 1530 0 0
+class Entities.Enemies.MeleeEnemy
+1440 1710 0 0
+class Entities.Enemies.ExplosiveEnemy
+4050 2880 0 0
+class Entities.Enemies.MeleeEnemy
+4050 2520 0 0
+class Entities.Enemies.ExplosiveEnemy
+4050 3420 0 0
+class Entities.Enemies.RangeEnemy
+4050 3870 0 0
+class Entities.Enemies.MeleeEnemy
+3600 3420 0 0
+class Entities.Enemies.MeleeEnemy
+990 3510 0 0
+class Entities.Enemies.RangeEnemy
+990 3690 0 0
+class Entities.Enemies.RangeEnemy
+990 3330 0 0
+class Entities.Enemies.ExplosiveEnemy
+810 3510 0 0
+class Entities.Enemies.ExplosiveEnemy
+1170 3510 0 0
+class Entities.Enemies.MeleeEnemy
+810 3690 0 0
+class Entities.Enemies.MeleeEnemy
+1170 3690 0 0
+class Entities.Enemies.RangeEnemy
+990 3510 0 0
+class Entities.Enemies.ExplosiveEnemy
+3330 3510 0 0
+50 50
+0
+5
+null null
+-1
+null null
+-1
+null null
+-1
+null null
+-1
+null null
+-1
+95
+1985 95
+2
+class Items.Consumables.BreadI
+4 0 1
+class Items.Consumables.BreadI
+0 2 1
+1085 185
+2
+class Items.A.TorchI
+2 3 1
+class Items.Weapons.SwordI
+1 1 1
+275 455
+2
+class Items.Weapons.DaggerI
+2 3 1
+class Items.Weapons.DaggerI
+4 4 1
+635 455
+2
+class Items.Weapons.WandI
+3 3 1
+class Items.Armors.T2HelmetI
+1 3 1
+2705 545
+2
+class Items.Weapons.DaggerI
+0 2 1
+class Items.Armors.QuickBootsI
+1 4 1
+725 635
+2
+class Items.Bombs.SmallBombI
+3 1 1
+class Items.Weapons.DaggerI
+0 0 1
+1715 725
+2
+class Items.Consumables.HealingPotionI
+1 2 1
+class Items.Consumables.BreadI
+1 0 1
+1445 815
+2
+class Items.Consumables.BreadI
+2 5 1
+class Items.Armors.BootsI
+1 0 1
+1805 905
+2
+class Items.Weapons.SwordI
+2 5 1
+class Items.Consumables.BreadI
+3 2 1
+2705 905
+2
+class Items.Armors.QuickBootsI
+2 2 1
+class Items.Bombs.SmallBombI
+1 1 1
+455 995
+2
+class Items.Weapons.WandI
+3 0 1
+class Items.A.TorchI
+2 2 1
+725 995
+2
+class Items.Consumables.CheeseI
+2 2 1
+class Items.Weapons.DaggerI
+0 5 1
+1985 995
+2
+class Items.Armors.ThickBootsI
+2 2 1
+class Items.Armors.T3HelmetI
+3 4 1
+95 1175
+2
+class Items.Consumables.CheeseI
+0 3 1
+class Items.Bombs.SmallBombI
+4 1 1
+815 1265
+2
+class Items.Weapons.SwordI
+1 1 1
+class Items.Armors.T3HelmetI
+2 2 1
+995 1265
+2
+class Items.A.TorchI
+4 4 1
+class Items.Consumables.HealingPotionI
+0 0 1
+635 1355
+2
+class Items.Weapons.DaggerI
+0 2 1
+class Items.Armors.ThickBootsI
+1 3 1
+2705 1355
+2
+class Items.A.TorchI
+3 3 1
+class Items.A.TorchI
+0 2 1
+2165 1445
+2
+class Items.A.TorchI
+1 4 1
+class Items.Weapons.MaceI
+2 3 1
+275 1535
+2
+class Items.Consumables.AppleI
+4 1 1
+class Items.Weapons.DaggerI
+1 3 1
+2705 1625
+2
+class Items.Consumables.AppleI
+2 4 1
+class Items.Weapons.WandI
+4 3 1
+455 1715
+3
+class Items.Bombs.SmallBombI
+0 0 1
+class Items.A.TorchI
+2 2 1
+class Items.Keys.T1KeyI
+1 0 1
+95 1805
+2
+class Items.A.TorchI
+4 5 1
+class Items.Weapons.SpearI
+1 1 1
+455 1895
+2
+class Items.Armors.MinerHelmetI
+0 3 1
+class Items.Bombs.SmallBombI
+2 1 1
+95 1985
+2
+class Items.Armors.HeavyChestplateI
+2 2 1
+class Items.A.TorchI
+1 3 1
+635 2075
+2
+class Items.Bombs.MediumBombI
+0 5 1
+class Items.Bombs.BigBombI
+2 2 1
+2435 2255
+2
+class Items.A.TorchI
+2 2 1
+class Items.Consumables.BreadI
+2 0 1
+1535 2345
+2
+class Items.Weapons.DaggerI
+1 0 1
+class Items.Consumables.CheeseI
+0 6 1
+1715 2345
+2
+class Items.Consumables.BreadI
+4 3 1
+class Items.Weapons.DaggerI
+2 1 1
+275 2435
+2
+class Items.Consumables.AppleI
+2 5 1
+class Items.Weapons.WandI
+3 0 1
+635 2525
+2
+class Items.A.TorchI
+3 1 1
+class Items.A.TorchI
+1 0 1
+2795 2705
+2
+class Items.A.TorchI
+4 4 1
+class Items.Consumables.HealingPotionI
+1 1 1
+2255 2705
+1
+class Items.Armors.BootsI
+2 3 1
+2705 2705
+2
+class Items.Consumables.AppleI
+3 3 1
+class Items.Armors.HeavyChestplateI
+0 3 1
+1445 1445
+2
+class Items.Consumables.HealingPotionI
+2 0 1
+class Items.A.TorchI
+0 0 1
+1445 1625
+2
+class Items.Bombs.BigBombI
+1 2 1
+class Items.Weapons.SpearI
+0 0 1
+3065 275
+2
+class Items.Weapons.DaggerI
+2 4 1
+class Items.Armors.StrongChestplateI
+2 0 1
+4415 275
+2
+class Items.Armors.QuickBootsI
+3 2 1
+class Items.A.TorchI
+0 2 1
+4415 455
+2
+class Items.Consumables.BreadI
+3 5 1
+class Items.Weapons.DaggerI
+2 2 1
+4685 815
+2
+class Items.Armors.LightChestplateI
+1 0 1
+class Items.Consumables.AppleI
+0 4 1
+5405 905
+2
+class Items.Armors.LightChestplateI
+2 2 1
+class Items.Consumables.HealingPotionI
+0 4 1
+4505 995
+2
+class Items.A.TorchI
+1 0 1
+class Items.Consumables.BreadI
+0 3 1
+5315 1085
+2
+class Items.Armors.QuickBootsI
+2 0 1
+class Items.Armors.HeavyChestplateI
+2 2 1
+3695 1175
+2
+class Items.Armors.LightChestplateI
+1 2 1
+class Items.Consumables.CheeseI
+0 0 1
+4145 1175
+2
+class Items.Armors.T1HelmetI
+0 4 1
+class Items.Armors.ThickBootsI
+3 3 1
+4415 1175
+2
+class Items.Armors.ThickBootsI
+1 0 1
+class Items.Consumables.HealingPotionI
+3 4 1
+4955 1355
+2
+class Items.Armors.QuickBootsI
+2 2 1
+class Items.A.TorchI
+1 1 1
+5405 1445
+3
+class Items.Armors.StrongChestplateI
+1 2 1
+class Items.Consumables.AppleI
+3 1 1
+class Items.Keys.T2KeyI
+0 0 1
+4325 1535
+2
+class Items.Armors.BootsI
+1 3 1
+class Items.A.TorchI
+3 5 1
+5405 1895
+2
+class Items.Consumables.AppleI
+2 1 1
+class Items.Weapons.DaggerI
+4 1 1
+4865 1985
+2
+class Items.Consumables.BreadI
+0 3 1
+class Items.Weapons.DaggerI
+2 4 1
+5045 1985
+2
+class Items.Armors.HeavyChestplateI
+1 1 1
+class Items.Consumables.BreadI
+0 2 1
+5225 1985
+2
+class Items.Consumables.HealingPotionI
+1 0 1
+class Items.Consumables.AppleI
+2 2 1
+4865 2345
+2
+class Items.Weapons.SwordI
+1 4 1
+class Items.Consumables.CheeseI
+1 3 1
+5045 2525
+2
+class Items.Consumables.BreadI
+4 1 1
+class Items.Armors.HeavyChestplateI
+0 2 1
+5315 2525
+2
+class Items.Consumables.HealingPotionI
+0 0 1
+class Items.A.TorchI
+4 1 1
+5675 365
+2
+class Items.Consumables.CheeseI
+1 4 1
+class Items.Consumables.CheeseI
+3 0 1
+4325 2615
+2
+class Items.Armors.QuickBootsI
+3 1 1
+class Items.Bombs.BigBombI
+0 3 1
+2885 1535
+2
+class Items.Armors.QuickBootsI
+1 2 1
+class Items.Consumables.CheeseI
+1 6 1
+3065 1535
+3
+class Items.Consumables.CheeseI
+0 5 1
+class Items.A.TorchI
+0 2 1
+class Items.Keys.T3KeyI
+0 0 1
+3335 1535
+2
+class Items.A.TorchI
+0 1 1
+class Items.Armors.StrongChestplateI
+2 1 1
+2975 1715
+2
+class Items.A.TorchI
+2 0 1
+class Items.Consumables.CheeseI
+3 5 1
+3875 1985
+1
+class Items.Armors.StrongChestplateI
+2 1 1
+3515 2165
+2
+class Items.Armors.LightChestplateI
+2 3 1
+class Items.Bombs.SmallBombI
+0 0 1
+3155 2345
+2
+class Items.Armors.MinerHelmetI
+0 3 1
+class Items.Armors.BootsI
+0 0 1
+4775 2615
+1
+class Items.Armors.QuickBootsI
+1 2 1
+3605 2615
+2
+class Items.Armors.T2HelmetI
+2 5 1
+class Items.Armors.T1HelmetI
+2 1 1
+3785 2795
+2
+class Items.Weapons.DaggerI
+2 3 1
+class Items.Weapons.MaceI
+3 3 1
+2075 2885
+2
+class Items.Consumables.BreadI
+4 0 1
+class Items.A.TorchI
+3 3 1
+2255 2885
+2
+class Items.Consumables.CheeseI
+0 2 1
+class Items.A.TorchI
+0 3 1
+5045 2885
+2
+class Items.Armors.T3HelmetI
+2 4 1
+class Items.Weapons.DaggerI
+0 1 1
+3335 2975
+2
+class Items.A.TorchI
+2 2 1
+class Items.Weapons.WandI
+1 0 1
+2165 3065
+2
+class Items.Consumables.CheeseI
+3 4 1
+class Items.Consumables.CheeseI
+1 2 1
+3515 3065
+2
+class Items.Weapons.MaceI
+2 1 1
+class Items.A.TorchI
+0 4 1
+3785 3065
+2
+class Items.Consumables.BreadI
+2 4 1
+class Items.Consumables.CheeseI
+1 3 1
+4775 3065
+2
+class Items.Bombs.MediumBombI
+2 2 1
+class Items.Consumables.CheeseI
+3 1 1
+4325 3245
+2
+class Items.Consumables.CheeseI
+1 4 1
+class Items.Consumables.HealingPotionI
+2 5 1
+5405 3335
+2
+class Items.Weapons.DaggerI
+3 2 1
+class Items.Armors.T3HelmetI
+3 4 1
+2795 3425
+2
+class Items.Bombs.SmallBombI
+3 4 1
+class Items.Consumables.BreadI
+1 4 1
+3155 3515
+2
+class Items.A.TorchI
+1 0 1
+class Items.Consumables.AppleI
+4 4 1
+3785 3605
+2
+class Items.Consumables.AppleI
+2 4 1
+class Items.Bombs.MediumBombI
+3 0 1
+5315 3605
+2
+class Items.Weapons.SwordI
+4 4 1
+class Items.A.TorchI
+1 5 1
+2795 3785
+2
+class Items.Consumables.BreadI
+1 2 1
+class Items.A.TorchI
+3 3 1
+4415 3785
+2
+class Items.Armors.BootsI
+1 5 1
+class Items.Consumables.CheeseI
+3 3 1
+4775 3785
+2
+class Items.Consumables.AppleI
+0 4 1
+class Items.Consumables.BreadI
+0 0 1
+3695 3965
+2
+class Items.A.TorchI
+4 5 1
+class Items.Consumables.AppleI
+1 5 1
+3155 4055
+2
+class Items.A.TorchI
+3 1 1
+class Items.Armors.T2HelmetI
+2 5 1
+3515 4055
+2
+class Items.Consumables.BreadI
+2 2 1
+class Items.Consumables.AppleI
+3 5 1
+3335 4145
+2
+class Items.Weapons.MaceI
+2 4 1
+class Items.Armors.T1HelmetI
+0 3 1
+1985 4235
+2
+class Items.Armors.T1HelmetI
+3 2 1
+class Items.A.TorchI
+0 3 1
+2255 4235
+2
+class Items.Consumables.HealingPotionI
+1 3 1
+class Items.Armors.T1HelmetI
+2 0 1
+5045 4235
+2
+class Items.Armors.BootsI
+3 3 1
+class Items.Weapons.DaggerI
+1 4 1
+5675 4235
+2
+class Items.A.TorchI
+3 2 1
+class Items.Armors.QuickBootsI
+2 0 1
+5585 2975
+2
+class Items.A.TorchI
+2 0 1
+class Items.Bombs.SmallBombI
+2 2 1
+4145 2885
+2
+class Items.Bombs.MediumBombI
+0 5 1
+class Items.Weapons.DaggerI
+2 2 1
